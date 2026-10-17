@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Ing. Yolanda Paucar Perez - Consultoría Agrónoma",
+  "description": "Sitio web interactivo de la Ing. Yolanda Paucar Perez (CIP 90161, Cusco). Especialista en ingeniería agrónoma, gestión hídrica y agroecología andina.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
